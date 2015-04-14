@@ -30,6 +30,7 @@ public class MainActivity extends ActionBarActivity {
 
     // Initialize nav drawer
     //Drawer myDrawer = new Drawer();
+    // comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
